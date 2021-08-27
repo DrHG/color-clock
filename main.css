@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+}
+
+#clock {
+  text-align: center;
+  position: relative;
+  top: 50%;
+  font-family: 'Exo 2', sans-serif;
+  font-size: 4rem;
+  color: white;
+  margin-top: -2rem;
+}
